@@ -2,9 +2,8 @@
 
 #### A curated list of C program under one roof from Basic to Advanced Level That i made for my practice during my Knowledge Enhacement Training 
 
-<img align="center" alt="PNG" src="https://github.com/Ayush7614/Cke-Program/blob/main/c-programming-course.png?raw=true" width="500" height="320" />
 
-A curated list of C program under one roof from Basic to Advanced Level That i made for my practice during my Knowledge Enhacement Training 
+![Cke-Program](https://socialify.git.ci/Ayush7614/Cke-Program/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 
 ## Owner
